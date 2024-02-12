@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW5.1</string>
+    <string name="plus_symbol">+</string>
+    <string name="minus_symbol">-</string>
+    <string name="toast_text">Поздравляем</string>
+    <string name="_0">0</string>
+</resources>
